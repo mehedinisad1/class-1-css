@@ -1,0 +1,9 @@
+.head{background: black;color: white;text-align: center;font-size: 40px;font-family: ariel block;}
+.menu{background: silver;color: white;text-align: left;font-size:30px;font-family:ariel black }
+.blog{height: 100px;width: 40%;background: red;float: left;padding: 20px;}
+.content{height: 100px; width: 55%;background: blanchedalmond;float: right;padding: 19px}
+.contener{overflow: hidden;}
+.footer{height: 70px;background: black}
+.box{width: 500px;margin: auto; background: orange;color: black;border: solid red;font-size: 16px;font-family: ariel black;}
+.seperate{margin-top: 50px}
+.song{margin-top: 100px;}
